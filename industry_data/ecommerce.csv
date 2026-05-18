@@ -1,0 +1,5 @@
+metric,value,source,note,frequency
+avg_tenure_days,540,Data Insight,средний срок жизни в днях,2
+avg_bill,1600,Data Insight,средний чек в рублях,2
+avg_days_since_last,21,Data Insight,дней без покупки,2
+avg_payment_frequency,2,Т-Банк,платежей в месяц,

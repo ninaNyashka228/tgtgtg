@@ -1,0 +1,5 @@
+metric,value,source,note,frequency
+avg_tenure_days,540,FitnessData,средний срок жизни клиента в днях,1
+avg_bill,3500,Т-Банк,средний чек в рублях,1
+avg_days_since_last,21,FitnessData,дней без посещения,1
+avg_payment_frequency,1,FitnessData,платежей в месяц,

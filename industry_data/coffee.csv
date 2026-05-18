@@ -1,0 +1,5 @@
+metric,value,source,note,frequency
+avg_tenure_days,270,Т-Банк,средний срок жизни (9 месяцев),12
+avg_bill,463,Платформа ОФД,средний чек в рублях,12
+avg_days_since_last,14,Платформа ОФД,дней без покупки,12
+avg_payment_frequency,12,Т-Банк,платежей в месяц,

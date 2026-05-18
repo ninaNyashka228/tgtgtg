@@ -1,0 +1,5 @@
+metric,value,source,note,frequency
+avg_tenure_days,720,Salistica,средний срок жизни клиента в днях,1
+avg_bill,2582,Эвотор,средний чек в рублях,1
+avg_days_since_last,31,Эвотор,дней без визита,1
+avg_payment_frequency,1,Эвотор,платежей в месяц,

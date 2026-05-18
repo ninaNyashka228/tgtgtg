@@ -1,0 +1,5 @@
+metric,value,source,note,frequency
+avg_tenure_days,400,Т-Банк,базовый срок жизни,2
+avg_bill,2000,Т-Банк,базовый чек,2
+avg_days_since_last,30,Т-Банк,дней без покупки,2
+avg_payment_frequency,2,Т-Банк,платежей в месяц,

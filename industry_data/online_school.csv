@@ -1,0 +1,5 @@
+metric,value,source,note,frequency
+avg_tenure_days,270,GetCourse,средний срок жизни в днях,0.5
+avg_bill,9900,GetCourse,средний чек в рублях,0.5
+avg_days_since_last,90,GetCourse,дней без захода,0.5
+avg_payment_frequency,0.5,GetCourse,платежей в месяц,
